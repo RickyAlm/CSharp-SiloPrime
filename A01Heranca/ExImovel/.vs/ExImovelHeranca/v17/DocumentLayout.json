@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|c:\\users\\treinamento\\source\\repos\\eximovelheranca\\eximovelheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|solutionrelative:eximovelheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|c:\\users\\treinamento\\source\\repos\\eximovelheranca\\eximovelheranca\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|solutionrelative:eximovelheranca\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|c:\\users\\treinamento\\source\\repos\\eximovelheranca\\eximovelheranca\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|solutionrelative:eximovelheranca\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|c:\\users\\treinamento\\source\\repos\\eximovelheranca\\eximovelheranca\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1293FCB3-9D55-43CB-B5A2-8B5DC9241385}|ExImovelHeranca\\ExImovelHeranca.csproj|solutionrelative:eximovelheranca\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Program.cs",
+              "RelativeDocumentMoniker": "ExImovelHeranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Program.cs",
+              "RelativeToolTip": "ExImovelHeranca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:21:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Imovel.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Imovel.cs",
+              "RelativeDocumentMoniker": "ExImovelHeranca\\Imovel.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Imovel.cs",
+              "RelativeToolTip": "ExImovelHeranca\\Imovel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:22:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Casa.cs",
+              "RelativeDocumentMoniker": "ExImovelHeranca\\Casa.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Casa.cs",
+              "RelativeToolTip": "ExImovelHeranca\\Casa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:59:51.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apartamento.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Apartamento.cs",
+              "RelativeDocumentMoniker": "ExImovelHeranca\\Apartamento.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExImovelHeranca\\ExImovelHeranca\\Apartamento.cs",
+              "RelativeToolTip": "ExImovelHeranca\\Apartamento.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:06:42.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

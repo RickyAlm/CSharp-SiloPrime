@@ -1,0 +1,14 @@
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.AssemblyInfoInputs.cache
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.AssemblyInfo.cs
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.exe
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.deps.json
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.runtimeconfig.json
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.dll
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.pdb
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.dll
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\refint\ExHeranca.dll
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.pdb
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.genruntimeconfig.cache
+C:\Users\Treinamento\source\repos\ExHeranca\ExHeranca\obj\Debug\net8.0\ref\ExHeranca.dll

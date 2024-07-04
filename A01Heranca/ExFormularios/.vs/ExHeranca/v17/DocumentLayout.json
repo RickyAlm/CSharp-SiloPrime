@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B84AD26-DD98-4212-BC8C-B8207654D6D6}|ExHeranca\\ExHeranca.csproj|c:\\users\\treinamento\\source\\repos\\exheranca\\exheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B84AD26-DD98-4212-BC8C-B8207654D6D6}|ExHeranca\\ExHeranca.csproj|solutionrelative:exheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B84AD26-DD98-4212-BC8C-B8207654D6D6}|ExHeranca\\ExHeranca.csproj|c:\\users\\treinamento\\source\\repos\\exheranca\\exheranca\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B84AD26-DD98-4212-BC8C-B8207654D6D6}|ExHeranca\\ExHeranca.csproj|solutionrelative:exheranca\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B84AD26-DD98-4212-BC8C-B8207654D6D6}|ExHeranca\\ExHeranca.csproj|c:\\users\\treinamento\\source\\repos\\exheranca\\exheranca\\formularioimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B84AD26-DD98-4212-BC8C-B8207654D6D6}|ExHeranca\\ExHeranca.csproj|solutionrelative:exheranca\\formularioimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\FormularioVeiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExHeranca\\FormularioVeiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\Program.cs",
+              "RelativeDocumentMoniker": "ExHeranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\Program.cs",
+              "RelativeToolTip": "ExHeranca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:10:58.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formulario.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\Formulario.cs",
+              "RelativeDocumentMoniker": "ExHeranca\\Formulario.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\Formulario.cs",
+              "RelativeToolTip": "ExHeranca\\Formulario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:12:21.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioImovel.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\FormularioImovel.cs",
+              "RelativeDocumentMoniker": "ExHeranca\\FormularioImovel.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\FormularioImovel.cs",
+              "RelativeToolTip": "ExHeranca\\FormularioImovel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:17:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\FormularioVeiculo.cs",
+              "RelativeDocumentMoniker": "ExHeranca\\FormularioVeiculo.cs",
+              "ToolTip": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\FormularioVeiculo.cs",
+              "RelativeToolTip": "ExHeranca\\FormularioVeiculo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:45:10.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

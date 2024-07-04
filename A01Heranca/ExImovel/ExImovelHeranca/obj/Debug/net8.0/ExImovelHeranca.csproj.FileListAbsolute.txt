@@ -1,0 +1,14 @@
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\bin\Debug\net8.0\ExImovelHeranca.exe
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\bin\Debug\net8.0\ExImovelHeranca.deps.json
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\bin\Debug\net8.0\ExImovelHeranca.runtimeconfig.json
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\bin\Debug\net8.0\ExImovelHeranca.dll
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\bin\Debug\net8.0\ExImovelHeranca.pdb
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ExImovelHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ExImovelHeranca.AssemblyInfoInputs.cache
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ExImovelHeranca.AssemblyInfo.cs
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ExImovelHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ExImovelHeranca.dll
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\refint\ExImovelHeranca.dll
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ExImovelHeranca.pdb
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ExImovelHeranca.genruntimeconfig.cache
+C:\Users\Treinamento\source\repos\ExImovelHeranca\ExImovelHeranca\obj\Debug\net8.0\ref\ExImovelHeranca.dll
