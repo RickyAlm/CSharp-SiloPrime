@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\ExHeranca.csproj",
+      "projectUniqueName": "C:\\Users\\Treinamento\\Documents\\CSharp-SiloPrime\\A01Heranca\\ExFormularios\\ExHeranca\\ExHeranca.csproj",
       "projectName": "ExHeranca",
-      "projectPath": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\ExHeranca.csproj",
+      "projectPath": "C:\\Users\\Treinamento\\Documents\\CSharp-SiloPrime\\A01Heranca\\ExFormularios\\ExHeranca\\ExHeranca.csproj",
       "packagesPath": "C:\\Users\\Treinamento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Treinamento\\source\\repos\\ExHeranca\\ExHeranca\\obj\\",
+      "outputPath": "C:\\Users\\Treinamento\\Documents\\CSharp-SiloPrime\\A01Heranca\\ExFormularios\\ExHeranca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
