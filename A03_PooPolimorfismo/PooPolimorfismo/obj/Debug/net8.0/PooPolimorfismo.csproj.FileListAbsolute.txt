@@ -1,0 +1,15 @@
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.AssemblyInfo.cs
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.sourcelink.json
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\bin\Debug\net8.0\PooPolimorfismo.exe
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\bin\Debug\net8.0\PooPolimorfismo.deps.json
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\bin\Debug\net8.0\PooPolimorfismo.runtimeconfig.json
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\bin\Debug\net8.0\PooPolimorfismo.dll
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\bin\Debug\net8.0\PooPolimorfismo.pdb
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.dll
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\refint\PooPolimorfismo.dll
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.pdb
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\PooPolimorfismo.genruntimeconfig.cache
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\PooPolimorfismo\PooPolimorfismo\obj\Debug\net8.0\ref\PooPolimorfismo.dll
