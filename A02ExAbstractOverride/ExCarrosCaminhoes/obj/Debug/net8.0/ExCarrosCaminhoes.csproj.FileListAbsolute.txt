@@ -1,0 +1,15 @@
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.AssemblyInfoInputs.cache
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.AssemblyInfo.cs
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.sourcelink.json
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\bin\Debug\net8.0\ExCarrosCaminhoes.exe
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\bin\Debug\net8.0\ExCarrosCaminhoes.deps.json
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\bin\Debug\net8.0\ExCarrosCaminhoes.runtimeconfig.json
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\bin\Debug\net8.0\ExCarrosCaminhoes.dll
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\bin\Debug\net8.0\ExCarrosCaminhoes.pdb
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.dll
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\refint\ExCarrosCaminhoes.dll
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.pdb
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ExCarrosCaminhoes.genruntimeconfig.cache
+C:\Users\Treinamento\Documents\CSharp-SiloPrime\ExCarrosCaminhoes\ExCarrosCaminhoes\obj\Debug\net8.0\ref\ExCarrosCaminhoes.dll
